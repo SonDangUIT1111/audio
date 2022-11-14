@@ -15,5 +15,6 @@
             <Button Name="btnPause" Margin="5,0" Click="btnPause_Click">Pause</Button>
             <Button Name="btnStop" Click="btnStop_Click">Stop</Button>
         </WrapPanel>
+        <TextBlock>HELOOOOOOOOOOOOO</TextBlock>
     </StackPanel>
 </Window>
